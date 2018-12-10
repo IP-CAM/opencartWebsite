@@ -1,4 +1,5 @@
 # opencartWebsite
+## Introduction 
 This is an opencart website i created where I familiarized myself with opencart functionalities, mvc structure and php language.
 
 The opencart project is configured in local with xampp. I designed and coded the layout and the pages of the website
@@ -27,8 +28,11 @@ Task 2:configure xampp and setup sql database in localhost/phpmyadmin
 A step by step series of examples that tell you how to get a development env running
 
 1.clone this repo and install all softwares above
+
 2. set up an opencart project with local configuration
+
 2.In phpmyadmin import the shop.sql file present in the root directory of this project
+
 This is what the website looks like:
 ![alt text](screenshots/Capture.JPG "main page ")
 ![alt text](screenshots/Capture2.JPG "product")
