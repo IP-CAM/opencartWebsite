@@ -29,9 +29,9 @@ A step by step series of examples that tell you how to get a development env run
 
 1.clone this repo and install all softwares above
 
-2. set up an opencart project with local configuration
+2.set up an opencart project with local configuration
 
-2.In phpmyadmin import the shop.sql file present in the root directory of this project
+3.In phpmyadmin import the shop.sql file present in the root directory of this project
 
 This is what the website looks like:
 ![alt text](screenshots/Capture.JPG "main page ")
